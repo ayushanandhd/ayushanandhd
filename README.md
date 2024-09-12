@@ -1,4 +1,4 @@
-### 👋  Hey! I'm Ayush!
+### Hi, I'm Ayush 👋🏻
 
 a Full Stack Developer from Patna, India.
 
