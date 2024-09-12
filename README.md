@@ -1,6 +1,6 @@
 ### 👋  Hey! I'm Ayush!
 
-A Full Stack Developer based out of Patna, India.
+a Full Stack Developer from Patna, India.
 
 ### Get in touch
 
